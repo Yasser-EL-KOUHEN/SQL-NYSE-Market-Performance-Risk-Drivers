@@ -40,7 +40,8 @@ SQL-NYSE-Market-Performance-Risk-Drivers/
 ├─ README.md
 ├─ NYSE_SQL-Analytics_Prices+Fundamentals.ipynb
 └─ data /
-   ├─ prices.csv
-   ├─ securities.csv
-   ├─ prices-split-adjusted.csv
-   └─ fundamentals.csv
+   └─ data.7z /
+      ├─ prices.csv
+      ├─ securities.csv
+      ├─ prices-split-adjusted.csv
+      └─ fundamentals.csv
